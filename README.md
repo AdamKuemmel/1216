@@ -1,8 +1,10 @@
-# 1216
 
-- refactor homework
+# 1216 refactor homework
 
-![screenshot of working website] (./images/Screen Shot 2021-07-24 at 1.09.29 AM.png)
+
+\*screenshot of working site
+<img width="1280" alt="Screen Shot 2021-07-24 at 1 09 29 AM" src="https://user-images.githubusercontent.com/85333228/128467947-ee6b65da-2f8b-44d3-8b82-8167e2999ae1.png">
+
 
 \*updated all of the semantics in the .html file
 
